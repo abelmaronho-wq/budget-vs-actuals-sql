@@ -5,6 +5,8 @@
 Este proyecto analiza con MySQL dónde se desvió el gasto del presupuesto
 en 2025 y qué clientes registraron las mayores caídas de ventas en Lugo.
 
+Los datos están en la carpeta Data/. Antes de ejecutar los scripts, importa los tres CSV en MySQL como tablas actuals, budget y cost_centres, respectivamente.
+
 ### Qué encontré
 
 * En Vigo, las compras superaron el presupuesto en 52.840,91 € (+9,26 %).
@@ -41,6 +43,8 @@ El análisis en Excel se añadirá en una fase posterior.
 
 This MySQL project looks at where spending differed from budget in 2025
 and which customers recorded the largest sales declines in Lugo.
+
+The data files are in the Data/ folder. Before running the scripts, import the three CSV files into MySQL as actuals, budget and cost_centres, respectively.
 
 ### What I found
 
