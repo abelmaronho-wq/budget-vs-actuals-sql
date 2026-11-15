@@ -16,8 +16,7 @@ variaciones de todos los clientes coincide con el total de Lugo.
 
 ### Consultas incluidas
 
-Los cinco archivos están en la carpeta sql/.
-
+Los cinco archivos SQL están en la raíz del repositorio
 * compras\_vigo\_mensual\_2025.sql  
 Compara las compras reales y presupuestadas de Vigo mes a mes.
 * presupuest\_vigo\_mensual\_2025.sql  
