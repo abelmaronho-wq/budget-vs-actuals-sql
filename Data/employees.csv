@@ -1,0 +1,13 @@
+employee_id,employee_name,cost_centre_id,job_title
+1,Salesperson 01,1,Sales representative
+2,Salesperson 02,1,Sales representative
+3,Salesperson 03,1,Sales representative
+4,Salesperson 04,2,Sales representative
+5,Salesperson 05,2,Sales representative
+6,Salesperson 06,2,Sales representative
+7,Salesperson 07,3,Sales representative
+8,Salesperson 08,3,Sales representative
+9,Salesperson 09,3,Sales representative
+10,Salesperson 10,4,Sales representative
+11,Salesperson 11,4,Sales representative
+12,Salesperson 12,4,Sales representative

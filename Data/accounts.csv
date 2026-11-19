@@ -1,0 +1,7 @@
+account_id,account_name,account_group
+700,Sales,Revenue
+600,Purchases,Cost of sales
+640,Salaries,Operating expenses
+621,Rent,Operating expenses
+627,Marketing,Operating expenses
+628,Utilities,Operating expenses
